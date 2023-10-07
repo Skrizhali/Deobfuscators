@@ -5,5 +5,6 @@
 Obfuscator | Author | Status
 ------------- | :---: | ---- |
  [ZenFuscator](https://github.com/Skrizhali/ZenFuscator) | Serialized | Working
+ [Noisette](https://github.com/Skrizhali/Noisette) | Serialized | Working
 
 
